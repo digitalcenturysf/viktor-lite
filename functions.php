@@ -494,12 +494,3 @@ function viktor_lite_short_text_remove_shortcode($start=0,$end=90){
 	echo esc_html($viktor_lite_desc);
 }
 
-/**
- * Remove plugin flag from redux. Get rid of redirect
- * 
- */
-add_action( 'redux/construct', 'viktor_lite_remove_as_plugin_flag' );
-function viktor_lite_remove_as_plugin_flag() {
-    ReduxFramework::$_as_plugin = false;
-}
-
