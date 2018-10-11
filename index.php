@@ -10,8 +10,7 @@
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
  * @package Viktor_lite
- */ 
-$viktor_lite_option = new Viktor_Lite_Options();
+ */  
 get_header(); ?>
 
 	<div id="primary" class="content-area">

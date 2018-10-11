@@ -8,10 +8,7 @@
  *
  * @package Viktor_lite
  */ 
-function vikor_lite_banner_temp(){
-global $viktor_lite;
-$banner_enable = $viktor_lite['front-pg-slider'];
-if(!is_front_page() || (is_front_page() && '0' ==$banner_enable)):
+function vikor_lite_banner_temp(){ 
 ?>
     <div class="inner-page-header">
         <div class="container"> 
@@ -20,5 +17,5 @@ if(!is_front_page() || (is_front_page() && '0' ==$banner_enable)):
              </div>
         </div>
     </div>
-<?php endif; 
+<?php   
 }?>

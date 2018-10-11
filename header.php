@@ -58,7 +58,6 @@ wp_head(); ?>
 
     <!-- slider area-->
     <?php 
-    vikor_lite_slider_temp(); 
     vikor_lite_banner_temp(); 
      ?>    
 
