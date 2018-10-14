@@ -97,10 +97,8 @@ http://fonts.googleapis.com/css?family=Raleway
 http://fonts.googleapis.com/css?family=Lato 
 They are under SIL Open Font.
  
- 
- == Screenshot Images == 
 
-Banner Image, Copyright Pixabay  
-License: CC0 1.0 Universal (CC0 1.0) 
-Source: https://www.pexels.com/photo/skyscrapers-in-city-against-clear-sky-316137/
+Screenshot Image, Copyright Pixabay  
+License: CC0 1.0 Universal (CC0 1.0)  
+https://www.pexels.com/photo/ballpen-blur-close-up-computer-461077/ 
   
